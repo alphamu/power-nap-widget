@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Power Nap Widget</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_power_sleeper">Power Nap Config</string>
+    <string name="desc">Nap for\n(minutes)</string>
+    <string name="five">5</string>
+    <string name="ten">10</string>
+    <string name="fifteen">15</string>
+    <string name="twenty">20</string>
+
+</resources>
